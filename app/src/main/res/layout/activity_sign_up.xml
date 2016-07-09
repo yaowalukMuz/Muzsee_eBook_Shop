@@ -126,7 +126,7 @@
                 android:layout_height="wrap_content"
                 android:id="@+id/editText4"
                 android:layout_weight="2"
-                android:inputType="textPassword"
+                android:inputType="text|textPassword"
                 android:textColor="@color/text" />
         </LinearLayout>
     </LinearLayout>
